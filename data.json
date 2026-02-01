@@ -1,0 +1,270 @@
+{
+  "leaders": [
+    {
+      "id": "fayzullaxojayev",
+      "name": "J.X.Fayzullaxo'jayev",
+      "role": "Bosh boshqarma boshlig'i",
+      "ini": "JF",
+      "ci": 0,
+      "departments": [
+        {
+          "id": "d1",
+          "name": "Bank xizmatlari iste'molchilarining huquqlarini himoya qilish, moliyaviy savodxonlik va ommaboplikni oshirish shu'basi",
+          "boss": "S.T.Abdullayev",
+          "bossRole": "Shu'ba boshlig'i",
+          "dashboards": [
+            {
+              "id": "db1",
+              "name": "Scoring Banking",
+              "type": "html",
+              "path": "J.X.Fayzullaxo'jayev yo'nalishi/Bank xizmatlari iste'molchilarining huquqlarini himoya qilish, moliyaviy savodxonlik va ommaboplikni oshirish shu'basi/scoring_banking.html"
+            },
+            {
+              "id": "db2",
+              "name": "Sirli mijoz tahlili",
+              "type": "html",
+              "path": "J.X.Fayzullaxo'jayev yo'nalishi/Bank xizmatlari iste'molchilarining huquqlarini himoya qilish, moliyaviy savodxonlik va ommaboplikni oshirish shu'basi/sirli_mijoz_final.html"
+            }
+          ]
+        },
+        {
+          "id": "d2",
+          "name": "Buxgalteriya hisobi, hisoboti va moliyaviy-iqtisodiy faoliyat boshqarmasi",
+          "boss": "D.K.Rahimova",
+          "bossRole": "Boshqarma boshlig'i",
+          "dashboards": []
+        },
+        {
+          "id": "d3",
+          "name": "Ijro apparati",
+          "boss": "M.N.Toshmatov",
+          "bossRole": "Apparati boshlig'i",
+          "dashboards": [
+            {
+              "id": "db3",
+              "name": "Ijro nazorati",
+              "type": "html",
+              "path": "J.X.Fayzullaxo'jayev yo'nalishi/Ijro apparati/index.html",
+              "xl": "J.X.Fayzullaxo'jayev yo'nalishi/Ijro apparati/мурожаатлар йиллик.xlsx"
+            },
+            {
+              "id": "db4",
+              "name": "Murojatlar dashboard",
+              "type": "html",
+              "path": "J.X.Fayzullaxo'jayev yo'nalishi/Ijro apparati/murojatlar_dashboard.html",
+              "xl": "J.X.Fayzullaxo'jayev yo'nalishi/Ijro apparati/мурожаатлар йиллик.xlsx"
+            }
+          ]
+        },
+        {
+          "id": "d4",
+          "name": "Narxlar va iqtisodiy kutilmalarni o'rganish bo'limi",
+          "boss": "F.A.Xasanov",
+          "bossRole": "Bo'lim boshlig'i",
+          "dashboards": []
+        }
+      ]
+    },
+    {
+      "id": "nuraliyev",
+      "name": "B.F.Nuraliyev",
+      "role": "Bosh boshqarma boshlig'i o'rinbosari",
+      "ini": "BN",
+      "ci": 1,
+      "departments": [
+        {
+          "id": "d5",
+          "name": "Kredit tashkilotlarida moliyaviy monitoringni muvofiqlashtirish va valyuta nazorati bo'limi",
+          "boss": "R.S.Karimov",
+          "bossRole": "Bo'lim boshlig'i",
+          "dashboards": [
+            {
+              "id": "db5",
+              "name": "Valyuta monitoringi",
+              "type": "html",
+              "path": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarida moliyaviy monitoringni muvofiqlashtirish va valyuta nazorati bo'limi/index.html"
+            },
+            {
+              "id": "db6",
+              "name": "Eksport-Import valyuta",
+              "type": "html",
+              "path": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarida moliyaviy monitoringni muvofiqlashtirish va valyuta nazorati bo'limi/export import/valyuta_dashboard.html",
+              "xl": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarida moliyaviy monitoringni muvofiqlashtirish va valyuta nazorati bo'limi/export import/1 слайд учун 19.12 (2).xls"
+            },
+            {
+              "id": "db7",
+              "name": "Valyuta XPU",
+              "type": "html",
+              "path": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarida moliyaviy monitoringni muvofiqlashtirish va valyuta nazorati bo'limi/Valyuta XPU/valyuta_hpu.html",
+              "xl": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarida moliyaviy monitoringni muvofiqlashtirish va valyuta nazorati bo'limi/Valyuta XPU/жами 2024-25 ишлашга ваш.xlsx"
+            }
+          ]
+        },
+        {
+          "id": "d6",
+          "name": "Kredit tashkilotlarini inspeksiya qilish boshqarmasi",
+          "boss": "A.B.Sultonov",
+          "bossRole": "Boshqarma boshlig'i",
+          "dashboards": []
+        },
+        {
+          "id": "d7",
+          "name": "Kredit tashkilotlarining muammoli aktivlari bilan ishlash va moliyaviy tahlil qilish bo'limi",
+          "boss": "N.O.Mirzayev",
+          "bossRole": "Bo'lim boshlig'i",
+          "dashboards": [
+            {
+              "id": "db8",
+              "name": "NPL Risk Rating",
+              "type": "html",
+              "path": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarining muammoli aktivlari bilan ishlash va moliyaviy tahlil qilish bo'limi/NPL_Risk_Rating_100.html"
+            },
+            {
+              "id": "db9",
+              "name": "NPL Risk tizimi",
+              "type": "html",
+              "path": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarining muammoli aktivlari bilan ishlash va moliyaviy tahlil qilish bo'limi/npl_risk_system_v11_full_edit.html"
+            },
+            {
+              "id": "db10",
+              "name": "NPL sayt versiya",
+              "type": "html",
+              "path": "B.F.Nuraliyev yo'nalishi/Kredit tashkilotlarining muammoli aktivlari bilan ishlash va moliyaviy tahlil qilish bo'limi/saytga yuklash/npl_tizimi.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irgashev",
+      "name": "I.R.Irgashev",
+      "role": "Bosh boshqarma boshlig'i o'rinbosari",
+      "ini": "II",
+      "ci": 2,
+      "departments": [
+        {
+          "id": "d8",
+          "name": "Hududlarni ijtimoiy-iqtisodiy rivojlantirish borasida tijorat banklari faoliyatini monitoring qilish bo'limi",
+          "boss": "L.M.Qodirov",
+          "bossRole": "Bo'lim boshlig'i",
+          "dashboards": [
+            {
+              "id": "db11",
+              "name": "Parkentsoy tahlili",
+              "type": "html",
+              "path": "I.R.Irgashev yo'nalishi/Hududlarni ijtimoiy-iqtisodiy rivojlantirish borasida tijorat banklari faoliyatini monitoring qilish bo'limi/parkentsoy/parkentsoy_voice.html"
+            }
+          ]
+        },
+        {
+          "id": "d9",
+          "name": "Tadbirkorlikni qo'llab-quvvatlash va aholi bandligini ta'minlash bo'limi",
+          "boss": "Sh.U.Nazarov",
+          "bossRole": "Bo'lim boshlig'i",
+          "dashboards": [
+            {
+              "id": "db12",
+              "name": "Tadbirkorlik monitoringi",
+              "type": "html",
+              "path": "I.R.Irgashev yo'nalishi/Tadbirkorlikni qo'llab-quvvatlash va aholi bandligini ta'minlash bo'limi/index.html",
+              "xl": "I.R.Irgashev yo'nalishi/Tadbirkorlikni qo'llab-quvvatlash va aholi bandligini ta'minlash bo'limi/eng_ohiri_dasturlar_2_lotin.xlsx"
+            },
+            {
+              "id": "db13",
+              "name": "Banklar tahlili",
+              "type": "html",
+              "path": "I.R.Irgashev yo'nalishi/Tadbirkorlikni qo'llab-quvvatlash va aholi bandligini ta'minlash bo'limi/banklar tahlili/banklar_tahlili.html",
+              "xl": "I.R.Irgashev yo'nalishi/Tadbirkorlikni qo'llab-quvvatlash va aholi bandligini ta'minlash bo'limi/banklar tahlili/+++Банклар_2025_й_Рейтинг_Банклар_учун_01122025_й (3).xlsx"
+            },
+            {
+              "id": "db14",
+              "name": "Mahallalar tahlili",
+              "type": "html",
+              "path": "I.R.Irgashev yo'nalishi/Tadbirkorlikni qo'llab-quvvatlash va aholi bandligini ta'minlash bo'limi/mahallalar tahlili dastur bo'yicha/kredit_dashboard_v17_mahalla_count.html",
+              "xl": "I.R.Irgashev yo'nalishi/Tadbirkorlikni qo'llab-quvvatlash va aholi bandligini ta'minlash bo'limi/mahallalar tahlili dastur bo'yicha/++++энг охири дастурлар (2).xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jurayev",
+      "name": "A.A.Jurayev",
+      "role": "Bosh boshqarma boshlig'i o'rinbosari",
+      "ini": "AJ",
+      "ci": 3,
+      "departments": [
+        {
+          "id": "d10",
+          "name": "Naqd pul muomalasini tashkil etish boshqarmasi",
+          "boss": "G.H.Tursunov",
+          "bossRole": "Boshqarma boshlig'i",
+          "dashboards": []
+        },
+        {
+          "id": "d11",
+          "name": "To'lov tizimlari infratuzilmalari va axborot texnologiyalari bo'limi",
+          "boss": "V.A.Ismoilov",
+          "bossRole": "Bo'lim boshlig'i",
+          "dashboards": []
+        }
+      ]
+    }
+  ],
+  "meetings": [
+    {
+      "id": "m1",
+      "day": 3,
+      "month": "Fev",
+      "time": "10:00",
+      "title": "Valyuta nazorati yig'ilishi",
+      "who": "B.F.Nuraliyev, Valyuta bo'limi",
+      "urgency": "urgent"
+    },
+    {
+      "id": "m2",
+      "day": 5,
+      "month": "Fev",
+      "time": "14:30",
+      "title": "NPL monitoring tahlili",
+      "who": "Moliyaviy tahlil guruhi",
+      "urgency": "normal"
+    },
+    {
+      "id": "m3",
+      "day": 7,
+      "month": "Fev",
+      "time": "09:00",
+      "title": "Haftalik operativ yig'ilish",
+      "who": "Barcha rahbarlar",
+      "urgency": "urgent"
+    },
+    {
+      "id": "m4",
+      "day": 10,
+      "month": "Fev",
+      "time": "11:00",
+      "title": "Tadbirkorlik dasturi natijalar",
+      "who": "I.R.Irgashev, Bo'lim boshliqlari",
+      "urgency": "normal"
+    },
+    {
+      "id": "m5",
+      "day": 12,
+      "month": "Fev",
+      "time": "15:00",
+      "title": "Moliyaviy savodxonlik hisoboti",
+      "who": "J.X.Fayzullaxo'jayev",
+      "urgency": "done"
+    },
+    {
+      "id": "m6",
+      "day": 14,
+      "month": "Fev",
+      "time": "10:30",
+      "title": "IT infratuzilma yangilanishi",
+      "who": "A.A.Jurayev, IT bo'limi",
+      "urgency": "normal"
+    }
+  ]
+}
